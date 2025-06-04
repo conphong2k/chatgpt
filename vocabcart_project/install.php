@@ -1,0 +1,3 @@
+<?php
+// Installation script placeholder
+?>
